@@ -3,7 +3,7 @@
 <body>
 
 <h1>S1 deployment..... </h1>
-  <h2> trigger </h2>
+  <h2> trigger option </h2>
   
 <p>Auto Deployment</p>
 
