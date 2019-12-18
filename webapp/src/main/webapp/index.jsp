@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>S1 P1 CICD..... </h1>
-  <h2> P1 WEbServer .... </h2>
+<h1>S1 P1 CID..... </h1>
+  <h2> P1 WebServer .... </h2>
   
-<p>Auto Deployment</p>
+<p>Auto Deployment Trigger</p>
 
 </body>
 </html>
