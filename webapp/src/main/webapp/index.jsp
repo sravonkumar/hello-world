@@ -3,9 +3,9 @@
 <body>
 
 <h1>S1 P1 CID..... </h1>
-  <h2> P1 WebServer .... </h2>
+  <p> P1 Tomcat7 WebServer .... </p>
   
-<p>Auto Deployment Trigger</p>
+<p>Auto Deployment Triggered</p>
 
 </body>
 </html>
